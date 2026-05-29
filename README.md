@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Amna Rafi 👋
 
-<!--
-**amnarafi85/amnarafi85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | FastAPI Backend Developer | RAG Systems | LangChain | GenAI
 
-Here are some ideas to get you started:
+I am a Computer Science student passionate about building real-world AI systems including:
+- AI Grader Systems
+- RAG Applications
+- LangGraph AI Agents
+- OCR + LLM Pipelines
+- FastAPI Backend APIs
+- Vector Database Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+- Self-RAG
+- CRAG
+- Agentic AI Systems
+- Production AI Architectures
+## Tech Stack
+
+- Python
+- FastAPI
+- Django
+- React
+- Next.js
+- PostgreSQL
+- MongoDB
+- pgvector
+- LangChain
+- LangGraph
+- AWS
+- Docker
+- Kubernetes
